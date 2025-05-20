@@ -1,0 +1,13 @@
+{
+  "name": "variar-project",
+  "version": "1.0.0",
+  "description": "Proyecto ANTLR4 en JavaScript para el lenguaje Variar",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "antlr4": "^4.13.2"
+  }
+}
