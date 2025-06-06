@@ -1,3 +1,0 @@
-variar x desde 1 hasta 4 hacer {
-    escribir 1
-} fin_variar
