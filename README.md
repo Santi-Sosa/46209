@@ -1,6 +1,7 @@
-# MiniJavaScript Parser
+# Recuperatorio Anlizador - Sintaxis y Semántica de los Lenguajes
+# Santiago Sosa - Legajo: 46209
 
-Este proyecto implementa un analizador sintáctico para una versión reducida de JavaScript.
+Este proyecto implementa un analizador sintáctico para una versión reducida de JavaScript, que imprime el contenido de una variable que se debe inicializar previamente.
 
 ## Requisitos
 - Node.js
@@ -9,16 +10,15 @@ Este proyecto implementa un analizador sintáctico para una versión reducida de
 
 ## Uso
 
-1. Generar los archivos con ANTLR4:
-
-```bash
-java -jar antlr-4.13.0-complete.jar -Dlanguage=JavaScript -o ./generated grammar/MiniJavaScript.g4
-```
-
-2. Instalar dependencias y correr:
+1. Instalar dependencias:
 
 ```bash
 npm install
+```
+
+2. Correr el proyecto:
+
+```bash
 npm start
 ```
 
