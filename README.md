@@ -10,13 +10,19 @@ Este proyecto implementa un analizador sintáctico para una versión reducida de
 
 ## Uso
 
-1. Instalar dependencias:
+1. Ubicarse en la carpeta correcta del proyecto:
+
+```bash
+cd 46209
+```
+
+2. Instalar dependencias:
 
 ```bash
 npm install
 ```
 
-2. Correr el proyecto:
+3. Correr el proyecto:
 
 ```bash
 npm start
